@@ -1,0 +1,8 @@
+{
+
+    "nombre":"Javier",
+    "apellidos":"Estrada",
+    "edad": 22,
+    "asignaturas": ["ad","asdasd","xxxxxxx"]
+
+}

@@ -1,14 +1,10 @@
 package resources;
-
 import java.io.File;
 
 public class Entrada2 {
     public static void main(String[] args) {
 
         File actividad1 = new File("Archivos");
-        File actividad2 = new File("C:/");
-
-
 
         // Obtener la lista de archivos en la carpeta
         File[] lista = actividad1.listFiles();
